@@ -47,8 +47,11 @@
 
 ### 🚀 **Featured Projects**
 
-**📈 [Vrinda Store – Sales Analytics Dashboard]([https://github.com/mrdanial526/YOUR-REPO-NAME](https://github.com/mrdanial526/vrinda-store-sales-dashboard))**
+**📈 [Vrinda Store – Sales Analytics Dashboard](https://github.com/mrdanial526/vrinda-store-sales-dashboard)**
 An Excel-based sales analytics dashboard delivering insights into sales performance, trends, and KPIs for a retail store.
+
+**🍕 [PizzaBite Sales – SQL Analysis](https://github.com/mrdanial526/PizzaBite-Sale---SQL)**
+A SQL-based sales analysis project exploring order trends, revenue, and performance metrics for a pizza business.
 
 ---
 

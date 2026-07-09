@@ -47,7 +47,7 @@
 
 ### 🚀 **Featured Projects**
 
-**📈 [Vrinda Store – Sales Analytics Dashboard](https://github.com/mrdanial526/YOUR-REPO-NAME)**
+**📈 [Vrinda Store – Sales Analytics Dashboard]([https://github.com/mrdanial526/YOUR-REPO-NAME](https://github.com/mrdanial526/vrinda-store-sales-dashboard))**
 An Excel-based sales analytics dashboard delivering insights into sales performance, trends, and KPIs for a retail store.
 
 ---

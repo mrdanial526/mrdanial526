@@ -55,6 +55,9 @@ An Excel-based sales analytics dashboard delivering insights into sales performa
 **🍕 [PizzaBite Sales – SQL Analysis](https://github.com/mrdanial526/PizzaBite-Sale---SQL)**
 A SQL-based sales analysis project exploring order trends, revenue, and performance metrics for a pizza business.
 
+**🎓 [Student Management System](https://github.com/mrdanial526/student-management-system)**
+A C#/WinForms desktop app with SQL Server backend for managing students, courses, marks, and results, featuring separate Admin and Student login access.
+
 ---
 
 ### 📊 **GitHub Stats**

@@ -58,6 +58,9 @@ A SQL-based sales analysis project exploring order trends, revenue, and performa
 **🎓 [Student Management System](https://github.com/mrdanial526/student-management-system)**
 A C#/WinForms desktop app with SQL Server backend for managing students, courses, marks, and results, featuring separate Admin and Student login access.
 
+**👥 [HR Analytics Dashboard – Power BI](https://github.com/mrdanial526/hr-analytics-dashboard-powerbi)**  
+A Power BI dashboard providing insights into employee attrition, workforce demographics, job satisfaction, and key HR KPIs through interactive visualizations using Power Query and DAX.
+
 ---
 
 ### 📊 **GitHub Stats**
